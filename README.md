@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RenzilDsilva
+- 👀 I’m interested in Data that is not easily accessible to common individual and simplify it for average mind in a simplistic way
+- 🌱 I’m currently learning Data Science and Product management, two completely intense fields in their own category.
+- 💞️ I’m looking to collaborate on problems that are currently affectting a set of population can be solved by investigating a dataset
+- 📫 How to reach me you can tweet me at @Renzila
